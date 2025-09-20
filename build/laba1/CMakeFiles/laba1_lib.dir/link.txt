@@ -1,2 +1,0 @@
-/usr/bin/ar qc liblaba1_lib.a CMakeFiles/laba1_lib.dir/func.cpp.o
-/usr/bin/ranlib liblaba1_lib.a

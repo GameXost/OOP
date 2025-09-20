@@ -1,3 +1,0 @@
-laba1_tests 3 0
----
-laba1_tests

@@ -1,4 +1,5 @@
-
+# DYLDIN SERGEY
+	laba_1 is ready 
 
 
 # Just a short intro for running the code 

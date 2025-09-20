@@ -1,0 +1,1 @@
+/usr/local/bin/g++ -g CMakeFiles/laba1_tests.dir/__/test/tests_1.cpp.o -o laba1_tests  liblaba1_lib.a ../lib/libgtest_main.a ../lib/libgtest.a 

@@ -1,13 +1,15 @@
 # DYLDIN SERGEY
+
 ## М8О-214БВ-24
 
+### 11 variant
 
     laba_1 is ready
 
 ## to compile run the follow:
 
 ```
-mkdir build
+mkdir build`
 cd ./build
 cmake ..
 cmake --build .
